@@ -15,4 +15,6 @@
   playsound,
   sklearn and thats it.
   
+ Also to use more voices just open folder "glasovi extra" and run every file in folder. Than every voice will be installed in your computer.
+  
  To see it works run "main.py" or if you want to see how app work just opet in "App" folder and run "CRESHO_App.py"
