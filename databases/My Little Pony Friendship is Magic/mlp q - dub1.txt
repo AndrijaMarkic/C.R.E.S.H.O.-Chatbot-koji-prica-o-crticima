@@ -1,0 +1,12 @@
+twilight 1
+purple 1
+pinkie pie 2
+pink 2
+rainbow dash 3
+blue 3
+applejack 4
+fluttershy 5
+rarity 6
+spike 7
+episodes 8
+studio 9

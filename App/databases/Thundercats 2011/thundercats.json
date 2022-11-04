@@ -1,0 +1,87 @@
+{
+	"intents":[
+	{
+	"tag": "lion-o",
+	"patterns": ["tell me something about lion-o","lion-o", "lion", "who is main character"
+	],
+	"responses": ["Lion-O is the lead protagonist of the ThunderCats. He is the son of king Claudus and brother of Tygra. As current Lord of the ThunderCats, Lion-O is a fearless leader who's ready to jump into the fight, even when it gets him in trouble. He wields the mighty Sword of Omens, the most powerful weapon on Third Earth."
+]
+	}, 
+	{
+	"tag": "tygra",
+	"patterns": ["tell me something about tygra", "tygra", "who is tygra", "tiger"
+	],
+	"responses": ["Tygra is the son of Javan, the sole surviving heir of the fallen Tiger Clan. He was adopted by the Thunderian royals and became a prince when he was a baby; currently, he's the elder adoptive brother to Prince Lion-O and adoptive son to King Claudus. After surviving the fall of Thundera, he and the surviving cats formed the new ThunderCats and serves as second-in-command. Should Lion-O ever fall or relinquish his title as King, Tygra is next in succession as Lord of the ThunderCats."
+]
+	},
+	{
+	"tag": "cheetara",
+	"patterns": ["tell me something about cheetara", "cheetara", "cheetah", "who is cheetara"
+	],
+	"responses":["Cheetara is a female member of the ThunderCats and the third to join. She is a Cleric whose skills take advantage of her immense speed. She wields a staff but is also adapted to fighting unarmed."
+]
+	},
+	{
+	"tag": "jaga",
+	"patterns": ["tell me something about jaga", "jaga", "old cat"
+	],
+	"responses": ["Jaga was a wise sorcerer who mentored Cheetara as a cleric. He is also the guardian of the Book of Omens."
+]
+	},
+	{
+	"tag": "wilykit",
+	"patterns": ["tell me something about wilykit", "wilykit", "kit", "tell me something about kit", "girl"
+	],
+	"responses": ["WilyKit is the female of the Wily's. Her twin brother is WilyKat. Kit and Kat were born to a humble farmer and his wife, and became older siblings to a second pair of twins. It was from their father they learned of the city of treasures, El-Dara, from his book."
+]
+	},
+	{
+	"tag": "wilykat",
+	"patterns": ["tell me something about wilykat", "wilykat", "kat", "tell me something about kat", "boy"
+	],
+	"responses": ["WilyKat is the male of the Wileys. His sister is WilyKit. Kat and Kit were born to a humble farmer and his wife, and became older siblings to a second pair of twins. It was from their father they learned of the city of treasures, El-Dara, from his book"
+]
+	},
+	{
+	"tag": "panthro",
+	"patterns": ["tell me something about panthro", "panthro", "panther"
+	],
+	"responses": ["Panthro is a General in the kingdom of Thundera and great friends with King Claudus. In the first episode he is said, by Grune, to have been defeated in battle. Later on Grune brings out Panthro as a bargaining chip for Claudus to surrender. King Claudus ends up cutting Panthro free of his chains and then when his back is turned Panthro stabs him in the back, killing him. Shortly after, it is revealed that it was in fact Mumm-Ra disguised as Panthro."
+]
+	},
+	{
+	"tag": "mumm-ra",
+	"patterns": ["tell me something about mumm-ra", "mumm-ra", "mum ra", "mummy", "big evil"
+	],
+	"responses": ["An ancient and immortal evil, Mumm-Ra is a powerful sorcerer with a vast army of minions. He seeks the same ancient artifacts as the ThunderCats and will destroy anyone and anything that stands in his way. He is based on the 1980s character of the same name."
+]
+	},
+	{
+	"tag": "episodes",
+	"patterns": ["tell me how many episodes series haves", "episodes", "how many seasons haves", "seasons"
+	],
+	"responses": ["This series haves 26 episodes In 1 season. It was plans to make 2nd season but plans was cancelled for unknown reasons."]
+	},
+	{
+	"tag": "story",
+	"patterns": ["tell me story", "what is the story", "story", "storyline", "plot"
+	],
+	"responses": ["The ThunderCats were a group of Cats from an unknown planet, who landed on Third Earth at the time in which Mumm-Ra the Ever-Living was overthrown by none other than the ThunderCats themselves. The Order of the ThunderCats has existed for thousands of years, and the legacy continues with the current lord of the Thundercats Lion-O, who once again will overthrow Mumm-Ra, as the Original Thundercats have done in the past."
+]
+	},
+	{
+	"tag": "hello",
+	"patterns": ["hello", "hi", "good morning", "good afternoon", "good evening"
+	],
+	"responses": ["Hello my name is Cresho. What you want to know about series Conan The Adveturer?"
+]
+	},
+	{
+	"tag": "do",
+	"patterns": ["what is your purpose", "what are you doing", "purpose"
+	],
+	"responses": ["My purpose is to talk with you about series you selected and that is Conan The Adventurer. What you want to know about series Conan The Adveturer?"
+]
+	}
+	]
+}

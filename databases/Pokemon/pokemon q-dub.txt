@@ -1,0 +1,6 @@
+ash 1
+misty 2
+brock 3
+team rocket 4
+episodes 5
+studio 6

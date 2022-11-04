@@ -1,0 +1,9 @@
+spongebob 1
+patrick 2
+squidward 3
+krabs 4
+plankton 5
+sandy 6
+puff 7
+episodes 8
+story 9

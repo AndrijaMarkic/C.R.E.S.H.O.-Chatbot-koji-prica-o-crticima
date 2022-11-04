@@ -1,0 +1,16 @@
+twilight 1
+purple 1
+pinkie pie 2
+pink 2
+rainbow dash 3
+blue 3
+applejack 4
+fluttershy 5
+rarity 6
+spike 7
+sunset shimmer 8
+starlight glimmer 9
+celestia 10
+luna 11
+cadance 12
+episodes 13

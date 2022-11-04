@@ -1,0 +1,81 @@
+{
+	"intents":[
+	{
+	"tag": "twilight",
+	"patterns": ["tell me something about twilight","twilight", "purple pony", "who is main character"
+	],
+	"responses": ["Njoj je davala glas Jelana Majić"
+]
+	}, 
+	{
+	"tag": "pinkie pie",
+	"patterns": ["tell me something about pinkie pie", "pinkie", "who is pinkie pie", "pink pony"
+	],
+	"responses": ["Njoj je davala glas Sandra Hrenar."
+]
+	},
+	{
+	"tag": "raibow dash",
+	"patterns": ["tell me something about rainbow dash", "rainbow", "blue pony"
+	],
+	"responses":["Njoj je davala glas Danijela Večerinović."
+]
+	},
+	{
+	"tag": "applejack",
+	"patterns": ["tell me something about applejack", "applejack", "orange pony"
+	],
+	"responses": ["Njoj je davala glas Sanja Hrenar."
+]
+	},
+	{
+	"tag": "fluttershy",
+	"patterns": ["tell me something about fluttershy", "fluttershy", "yellow pony"
+	],
+	"responses": ["Njoj je davala glas Ivana Hajder."
+]
+	},
+	{
+	"tag": "rarity",
+	"patterns": ["tell me something about rarity", "rarity", "white pony"
+	],
+	"responses": ["Njoj je davala glas Vanda Winter."
+]
+	},
+	{
+	"tag": "spike",
+	"patterns": ["tell me something about spike", "spike", "baby dragon"
+	],
+	"responses": ["Njemu je glas davala Aleksandra Naumov."
+]
+	},
+	{
+	"tag": "episodes",
+	"patterns": ["tell me how many episodes series haves", "episodes", "how many seasons haves", "seasons"
+	],
+	"responses": ["Samo jedna epizoda postoji od ove sinkronizacije."
+]
+	},
+	{
+	"tag": "studio",
+	"patterns": ["tell me something about studio", "which studio", "studio"
+	],
+	"responses": ["Sinkronizacija je nastala 2011. Odradio ju je Project 6 Studio"
+]
+	},
+	{
+	"tag": "hello",
+	"patterns": ["hello", "hi", "good morning", "good afternoon", "good evening"
+	],
+	"responses": ["Zdravo ja sam Krešo. Što želiš znati o sinkronizaciji za Moj Mali Poni?"
+]
+	},
+	{
+	"tag": "do",
+	"patterns": ["what is your purpose", "what are you doing", "purpose"
+	],
+	"responses": ["Moja svrha je pričati sa tobom o temi koju si odabrao, a to je Moj Mali Poni Hrvatska Sinkronizacija. Što želiš znati o sinkronizaciji za Moj Mali Poni?"
+]
+	}
+	]
+}

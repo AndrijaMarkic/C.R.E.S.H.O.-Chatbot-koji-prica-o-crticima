@@ -1,0 +1,108 @@
+{
+	"intents":[
+	{
+	"tag": "conan",
+	"patterns": ["tell me something about conan","conan", "the barberian", "who is main character"
+	],
+	"responses": ["Conan, The main character of the story. In this version, his parents are turned into living stone and there are few hints of his predestination of becoming a king; the references come as either a private joke to those who know the Conan mythos."
+]
+	}, 
+	{
+	"tag": "zula",
+	"patterns": ["tell me something about zula", "zula", "who is zula", "black guy"
+	],
+	"responses": ["Zula, Prince of the Wasai, a tribe similar to Sub-Saharan Africans, based from the original Conan literature, may have inspired T. J. Storm's character Bayu in the live series, who is a different but similar person."
+]
+	},
+	{
+	"tag": "needle",
+	"patterns": ["tell me something about needle", "neddle", "red bird", "phoenix"
+	],
+	"responses":["Needle, Conan's fledgling phoenix sidekick and only constant companion. He possessed the ability to enter flat surfaces and magically transform into a phoenix design (although he needed his magical tail feathers to accomplish this feat, and lost this power if he lost one of them)."
+]
+	},
+	{
+	"tag": "thunder",
+	"patterns": ["tell me something about thunder", "thunder", "black horse"
+	],
+	"responses": ["Thunder, Conan's willful (but loyal) horse, eventually armed with Star Metal horse shoes that was made from Snagg's grapnel. Thunder was stubborn as he is always refusing to enter cities, and threw Conan from his back on more than one occasion rather than enter a city."
+]
+	},
+	{
+	"tag": "jezmine",
+	"patterns": ["tell me something about jasmine", "jasmine", "jezmine", "tell me something about jezmine", "circus girl"
+	],
+	"responses": ["Jezmine, An agile and beautiful circus performer who possesses a set of Star Metal throwing stars, she started as a thief but became an honest woman for the rest of the series (but is in love with Conan nonetheless) especially where the first point is that Conan and Jezmine are seen climbing a tower where Jezmine attempts to steal some priceless treasures. Her parents are later revealed to be a nobleman and woman in the city of Tarantia."
+]
+	},
+	{
+	"tag": "greywolf",
+	"patterns": ["tell me something about grey wolf", "greywolf", "wizard", "sorcerer"
+	],
+	"responses": ["Greywolf, A wizard from the magical city of Xanthus. Originally armed with a bare staff, he was given the mystical 'Claw of Heaven' made of Star Metal that was mounted atop his staff and effectively doubled his magical power (as stated on a couple occasions)."
+]
+	},
+	{
+	"tag": "snagg",
+	"patterns": ["tell me something about snagg", "snagg", "viking"
+	],
+	"responses": ["Snagg, A Viking-like barbarian (as strong as Conan) from Vanirmen tribe, which lives at the sea shore. Snagg likes to travel by water. He often quarrels with Conan, because they grew up in neighboring countries with different culture."
+]
+	},
+	{
+	"tag": "set",
+	"patterns": ["tell me something about set", "set", "big snake", "giant snake", "big cobra"
+	],
+	"responses": ["Set, A cobra-like serpent demon who is god of the Serpent Men. Long ago, Set planned to enslave the human race through converting them into his cult through the Serpent Men. However, Set was exiled into the Abyss for his actions by the Elders."
+]
+	},
+	{
+	"tag": "wrath-amon",
+	"patterns": ["tell me something about wrath amon", "wrath amon", "amon", "tell me something about amon" 
+	],
+	"responses": ["Wrath-amon, The evil sorcerer who currently leads the Snake Cult as its high priest and the personal enemy of Conan. He was originally a large gila monster who was transformed into a serpent man-like creature who overthrew his own master Ram-Amon, the previous high priest of the Snake Cult, after taking his Black Ring and now has the mission to free his god Set with the help of the Star Metal."
+]
+	},
+	{
+	"tag": "dregs",
+	"patterns": ["tell me something about dregs", "dregs", "small naga", "naga"
+	],
+	"responses": ["Dregs, Wrath-Amon's sneaky Nāga assistant, with a hood like a cobra and a rattle like a rattlesnake. He could be considered Needle's nemesis, as he frequently tries to catch and eat the phoenix."
+]
+	},
+	{
+	"tag": "mesmira",
+	"patterns": ["tell me something about mesmira", "mesmira", "witch", "sorceress", "who is mesmira"
+	],
+	"responses": ["Mesmira is a wicked and conniving sorceress, power-hungry and so depraved that there is nothing she won't do and no one she won't hurt to get what she wants. She is scheming and manipulative, willing to ally herself with anyone but will shove the dagger in when their backs are turned, and comes up with sneaky plots to use others as her unwitting pawns.She is enamored of Conan, having several times sought him as a consort (willingly or not), and shown a specific loathing towards Jezmine and Greywolf and his siblings she had cursed."
+]
+	},
+	{
+	"tag": "episodes",
+	"patterns": ["tell me how many episodes series haves", "episodes", "how many seasons haves", "seasons"
+	],
+	"responses": ["Series have 2 seasons with 65 episodes. 13 in 1st and 52 in 2nd."]
+	},
+	{
+	"tag": "story",
+	"patterns": ["tell me story", "what is the story", "story", "storyline", "plot"
+	],
+	"responses": ["Conan's adventures thus begin as he searches Hyboria looking for a way to cure his family and free the land from Wrath-Amon's authoritarianism. Wrath-Amon's followers are also shapeshifting Serpent Men. When Conan's Star Metal sword was close enough to them, it broke the spell that disguised them and revealed their true form to be Serpent Men; when Star Metal made contact with the Serpent Men it banishes them to the Abyss with Set. Spies and agents of Set and Stygia, many of them also Serpent Men, were present in many cities, nations and tribes throughout the land in the age of Conan."
+]
+	},
+	{
+	"tag": "hello",
+	"patterns": ["hello", "hi", "good morning", "good afternoon", "good evening"
+	],
+	"responses": ["Hello my name is Cresho. What you want to know about series Conan The Adveturer?"
+]
+	},
+	{
+	"tag": "do",
+	"patterns": ["what is your purpose", "what are you doing", "purpose"
+	],
+	"responses": ["My purpose is to talk with you about series you selected and that is Conan The Adventurer. What you want to know about series Conan The Adveturer?"
+]
+	}
+	]
+}

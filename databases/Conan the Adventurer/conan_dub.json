@@ -1,0 +1,108 @@
+{
+	"intents":[
+	{
+	"tag": "conan",
+	"patterns": ["tell me something about conan","conan", "the barberian", "who is main character"
+	],
+	"responses": ["Conanu je davao glas Sreten Mokrović"
+]
+	}, 
+	{
+	"tag": "zula",
+	"patterns": ["tell me something about zula", "zula", "who is zula", "black guy"
+	],
+	"responses": ["Zuli je davao glas Branko Blače"
+]
+	},
+	{
+	"tag": "needle",
+	"patterns": ["tell me something about needle", "neddle", "red bird", "phoenix"
+	],
+	"responses":["Needleu je davao glas Ivo Rogulja"
+]
+	},
+	{
+	"tag": "jezmine",
+	"patterns": ["tell me something about jasmine", "jasmine", "jezmine", "tell me something about jezmine", "circus girl"
+	],
+	"responses": ["Jasmin je davala glas Nada Rocco"
+]
+	},
+	{
+	"tag": "greywolf",
+	"patterns": ["tell me something about grey wolf", "greywolf", "wizard", "sorcerer"
+	],
+	"responses": ["Greywolfu je davao glas Žarko Savić"
+]
+	},
+	{
+	"tag": "snagg",
+	"patterns": ["tell me something about snagg", "snagg", "viking"
+	],
+	"responses": ["Snaggu je davao glas Ranko Tihomirović"
+]
+	},
+	{
+	"tag": "set",
+	"patterns": ["tell me something about set", "set", "big snake", "giant snake", "big cobra"
+	],
+	"responses": ["Setu je davao glas Ranko Tihomirović"
+]
+	},
+	{
+	"tag": "wrath-amon",
+	"patterns": ["tell me something about wrath amon", "wrath amon", "amon", "tell me something about amon" 
+	],
+	"responses": ["Warath-amonu je davao glas Vlado Kovačić"
+]
+	},
+	{
+	"tag": "dregs",
+	"patterns": ["tell me something about dregs", "dregs", "small naga", "naga"
+	],
+	"responses": ["Dregsu je davao glas Ranko Tihomirović"
+]
+	},
+	{
+	"tag": "mesmira",
+	"patterns": ["tell me something about mesmira", "mesmira", "witch", "sorceress", "who is mesmira"
+	],
+	"responses": ["Mesmiri je davala glas Mirela Brekalo"
+]
+	},
+	{
+	"tag": "episodes",
+	"patterns": ["tell me how many episodes series haves", "episodes", "how many seasons haves", "seasons"
+	],
+	"responses": ["Postoje 13 epizoda koje su sinkronizirane. I sve se mogu naći na VHS kazetama, samo ne znam gdje ih možeš pronaći."]
+	},
+	{
+	"tag": "studio",
+	"patterns": ["tell me something about studio", "which studio", "studio"
+	],
+	"responses": ["Sinkronizacija je odrađena 1994. godine u studiu Duplikato Media."
+]
+	},
+	{
+	"tag": "hello",
+	"patterns": ["hello", "hi", "good morning", "good afternoon", "good evening"
+	],
+	"responses": ["Zdravo ja sam Krešo. Što želiš znati o sinkronizaciji za Conan Pustolov?"
+]
+	},
+	{
+	"tag": "do",
+	"patterns": ["what is your purpose", "what are you doing", "purpose"
+	],
+	"responses": ["Moja svrha je pričati sa tobom o temi koju si odabrao, a to je Conan Pustolov Hrvatska Sinkronizacija. Što želiš znati o sinkronizaciji za Conan Pustolov?"
+]
+	},
+	{
+	"tag": "director",
+	"patterns": ["who was director", "director", "who made the dub"
+	],
+	"responses": ["Redateljica Sinkronizacije je bila Ivana Vlkov-Wagner."
+]
+	}
+	]
+}
