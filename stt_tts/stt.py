@@ -1,5 +1,4 @@
 import speech_recognition as sr
-from stt_tts.tts import male_voice2
 
 def speech_to_text():
     r = sr.Recognizer()
