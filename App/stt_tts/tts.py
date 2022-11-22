@@ -12,7 +12,7 @@ def male_voice(text):
 
 def female_voice(text):
     female = pyttsx3.init()
-    female.setProperty('voice', 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\MSTTS_V110_enGB_SusanM')
+    female.setProperty('voice', 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\MSTTS_V110_enCA_LindaM')
     female.setProperty('rate', 180)
     female.save_to_file(text, 'text.wav')
     #female.say(text)
