@@ -25,7 +25,7 @@ spongebob = "databases/SpongeBob/spongebob.json"
 spongebob_dub = "databases/SpongeBob/spongebob_dub.json"
 thundercats = "databases/Thundercats 2011/thundercats.json"
 
-with open(mlp_dub1, "r", encoding="utf8") as f:
+with open(thundercats, "r", encoding="utf8") as f:
     intents = json.load(f)
 
 for intent in intents['intents']:
@@ -47,8 +47,8 @@ words = sorted(list(set(words)))
 # sort labels:
 labels = sorted(list(set(labels)))
 
-pickle.dump(words,open('pkl_w/words_mlp_dub1.pkl','wb'))
-pickle.dump(labels,open('pkl_l/labels_mlp_dub1.pkl','wb'))
+pickle.dump(words,open('pkl_w/words_thundercats.pkl','wb'))
+pickle.dump(labels,open('pkl_l/labels_thundercats.pkl','wb'))
 
 # creating our training data:
 training_data = []
@@ -96,4 +96,4 @@ model.compile(loss='categorical_crossentropy', optimizer=sgd_optimizer, metrics=
 # fit the model 
 history = model.fit(np.array(x_train), np.array(y_train), epochs=200, batch_size=5, verbose=1)
 
-model.save('models/mlp_dub1_chatbot_model.h5', history)
+model.save('models/thundercats_chatbot_model.h5', history)

@@ -94,14 +94,14 @@
 	"tag": "hello",
 	"patterns": ["hello", "hi", "good morning", "good afternoon", "good evening"
 	],
-	"responses": ["Hello my name is Cresho. What you want to know about series Conan The Adveturer?"
+	"responses": ["Hello my name is Cresho. What you want to know about series My Little Pony?"
 ]
 	},
 	{
 	"tag": "do",
 	"patterns": ["what is your purpose", "what are you doing", "purpose"
 	],
-	"responses": ["My purpose is to talk with you about series you selected and that is Conan The Adventurer. What you want to know about series Conan The Adveturer?"
+	"responses": ["My purpose is to talk with you about series you selected and that is My Little Pony. What you want to know about series My Little Pony?"
 ]
 	}
 	]
